@@ -4,6 +4,7 @@ body, html {
     min-height: 100dvh;
     display: flex;
     flex-direction: column;
+    font-family: 'Nunito-Sans', sans-serif;
 }
 
 .cabecalho {
